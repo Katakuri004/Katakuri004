@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Katakuri004">
-    <img src="https://profile-counter.glitch.me/Katakuri004/count.svg" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Katakuri004&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   </a>
 </p>
 
