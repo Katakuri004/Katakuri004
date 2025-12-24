@@ -13,6 +13,6 @@
 
 ### Connect With Me
 
-- [My Resume](https://drive.google.com/file/d/1gsAlBFKFs_IWH98Y9KuE2YT4HmbhjcUn/view?usp=drive_link)
+- [My Resume](https://drive.google.com/file/d/1RvqhnqN_lCCgx1Fox9EsaTcGQW7rtaLN/view?usp=drive_link)
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 
