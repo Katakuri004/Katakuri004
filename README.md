@@ -13,6 +13,6 @@
 
 ### Connect With Me
 
-- [My Resume](https://drive.google.com/file/d/1RvqhnqN_lCCgx1Fox9EsaTcGQW7rtaLN/view?usp=drive_link)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [My Resume](https://drive.google.com/file/d/177kGb_yJrQ0_IRBhRWYcgvFSGBGHsPpL/view?usp=drive_link)
+- [LinkedIn](https://www.linkedin.com/in/arpit-kumar-kata/)
 
